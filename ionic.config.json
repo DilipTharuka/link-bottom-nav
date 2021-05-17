@@ -1,0 +1,8 @@
+{
+  "name": "link-bottom-nav",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "1dd2ae7d"
+}
